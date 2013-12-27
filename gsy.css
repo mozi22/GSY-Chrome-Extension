@@ -1,0 +1,30 @@
+#bg {
+  position: fixed; 
+  top: -50%; 
+  left: -50%; 
+  width: 200%; 
+  height: 200%;
+}
+#bg img {
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+  right: 0; 
+  bottom: 0; 
+  margin: auto; 
+  min-width: 50%;
+  min-height: 50%;
+}
+#msg_welcome{
+	background: rgba(0, 0, 0, 0.4);
+	color:#eee;
+	font-family:"Comic Sans MS", cursive;
+	right:0;
+	left:0;
+	font-size:72px;
+	font-weight:bold;
+	position:absolute;
+	text-align:right;
+	padding-right:100px;
+	top:420px;
+}

@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+
+  "name": "GSY Memories",
+  "description": "This extension is a tribute to the beautiful moments we all spent at GSY 2013.",
+  "version": "1.0",
+
+  "permissions": [
+    "http://*/*",
+    "https://*/*",
+    "tabs",
+    "activeTab"
+
+  ],
+ "chrome_url_overrides" : {
+    "newtab": "myPage.html"
+  }
+}
