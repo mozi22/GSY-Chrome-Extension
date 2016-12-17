@@ -7,7 +7,7 @@ To run this extension in your browser , do the following steps.
 
 <h3>Step 1</h3>
 
-of course , download this extension from github and extract the zip file to a safe place in your drive.
+Download this extension from github and extract the zip file to a safe place in your drive.
 
 <h3>Step 2</h3>
 
